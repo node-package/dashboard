@@ -34,7 +34,9 @@
     "path": "^0.12.7",
     "promise": "^7.1.1",
     "superstatic": "^1.2.3",
-    "typescript": "^1.8.2"
+    "systemjs-builder": "^0.15.9",
+    "typescript": "^1.8.2",
+    "typings": "^0.6.8"
   },
   "dependencies": {
     "angular2": "2.0.0-beta.0",
