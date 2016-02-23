@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/node-package/dashboard.git"
   },
-  "author": "Anis ABID",
+  "author": {
+    "name": "Anis ABID",
+    "email": "anab.tn@google.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/node-package/dashboard/issues"
