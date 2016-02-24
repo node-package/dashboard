@@ -1,0 +1,33 @@
+import { PanelBodyChartProvider } from './providers/panel-body-chart.provider';
+export declare class PanelBodyChart {
+    panelBodyObj: any;
+    panelBodyChartProvider: PanelBodyChartProvider;
+    private chartData;
+    private chartDataOld;
+    private chartDataArray;
+    private chartLabels;
+    private chartSeries;
+    private chartSeriesColors;
+    private chartSeriesActive;
+    private chartOptions;
+    private chartColours;
+    private chartColoursOld;
+    private chartLegend;
+    private chartType;
+    private chartTypes;
+    private easting;
+    constructor(panelBodyChartProvider: PanelBodyChartProvider);
+    private ngOnInit();
+    private ngAfterViewInit();
+    panelBodyChartServiceGetOptions(chart: any): void;
+    panelBodyChartServiceGetData(url: any): void;
+    private checkUpdateChart();
+    updateChartData(i?: number): boolean;
+    private activeChartSerie(i?);
+    updateChartType(i?: number): boolean;
+    private getChartOptions();
+    private getChartDataArray(res);
+    private getChartDataSingle(i?);
+    chartClicked(e: any): void;
+    chartHovered(e: any): void;
+}

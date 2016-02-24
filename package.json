@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/node-package/dashboard.git"
   },
-  "main": "dist/dashboard.js",
-  "typings": "dist/dashboard.d.ts",
+  "main": "dist/atexo-dashboard.js",
+  "typings": "dist/atexo-dashboard.d.ts",
   "scripts": {
     "build": "rimraf dist & gulp build"
   },
