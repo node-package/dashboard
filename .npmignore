@@ -37,7 +37,9 @@ jspm_packages
 .idea
 .idea/
 
-
 # Sources Files
 examples
 src
+
+# Gulp
+gulpfile.js
