@@ -1,0 +1,56 @@
+=focus
+  -moz-box-shadow: 0px 0px 0px 0px #66afe9
+  -webkit-box-shadow: 0px 0px 0px 0px #66afe9
+  -o-box-shadow: 0px 0px 0px 0px #66afe9
+  box-shadow: 0px 0px 0px 0px #66afe9
+  border-color: #66afe9
+
+.quick-search
+  &.focus
+    .quick-search-input,
+    .quick-search-btn
+      +focus
+  .quick-search-input,
+  .quick-search-btn
+    -webkit-border-radius: 0
+    -moz-border-radius: 0
+    border-radius: 0
+
+  .quick-search-input
+    border-right: 0
+  .quick-search-clear
+    display: block
+    position: absolute
+    top: 1px
+    right: 33px
+    width: 28px
+    height: 28px
+    z-index: 20
+    line-height: 28px
+    text-align: center
+    color: #CCCCCC
+    &:hover
+      text-decoration: none
+      color: inherit
+  .quick-search-spinner
+    display: block
+    position: absolute
+    top: 5px
+    right: 33px
+    z-index: 20
+  .quick-search-result
+    position: absolute
+    left: 0
+    top: 100%
+    width: 100%
+    z-index: 8
+    .list-group
+      max-height: 199px
+      overflow: auto
+      a:first-child
+        -webkit-border-top-left-radius: 0
+        -moz-border-radius-topleft: 0
+        border-top-left-radius: 0
+        -webkit-border-top-right-radius: 0
+        -moz-border-radius-topright: 0
+        border-top-right-radius: 0

@@ -1,0 +1,101 @@
+﻿CODE_REG,NOM_REGION,CODE_DEPT,NOM_DEPT,NB_ARRONDS,NB_CANTONS,NB_COMMUNES,POP,Attribution
+82,Rhône-Alpes,01,Ain,4,43,419,6143,31
+22,Picardie,02,Aisne,5,42,816,5550,94
+83,Auvergne,03,Allier,3,35,320,3531,24
+93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,4,30,200,1651,55
+93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,2,30,177,1423,12
+93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,2,52,163,10945,79
+82,Rhône-Alpes,07,Ardèche,3,33,339,3248,85
+21,Champagne-Ardenne,08,Ardennes,4,37,463,29167,8
+73,Midi-Pyrénées,09,Ariège,3,22,332,15758,2
+21,Champagne-Ardenne,10,Aube,3,33,433,3117,20
+91,Languedoc-Roussillon,11,Aude,3,35,438,3658,54
+73,Midi-Pyrénées,12,Aveyron,3,46,304,28836,4
+93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,4,57,119,20005,50
+25,Basse-Normandie,14,Calvados,4,49,706,6995,61
+83,Auvergne,15,Cantal,3,27,260,1541,35
+54,Poitou-Charentes,16,Charente,3,35,404,3644,29
+54,Poitou-Charentes,17,Charente-Maritime,5,51,472,6408,03
+24,Centre,18,Cher,3,35,290,31960,12
+74,Limousin,19,Corrèze,3,37,286,25223,5
+94,Corse,2A,Corse-du-Sud,2,22,124,14599,8
+94,Corse,2B,Haute-Corse,3,30,236,1688,69
+26,Bourgogne,21,Côte-d'Or,3,43,706,53850,5
+53,Bretagne,22,Côtes-d'Armor,4,52,373,61238,3
+74,Limousin,23,Creuse,2,27,260,12791,9
+72,Aquitaine,24,Dordogne,4,50,557,42660,7
+43,Franche-Comté,25,Doubs,3,35,594,54250,9
+82,Rhône-Alpes,26,Drôme,3,36,369,4993,13
+23,Haute-Normandie,27,Eure,3,43,675,60319,4
+24,Centre,28,Eure-et-Loir,4,29,402,4402,91
+53,Bretagne,29,Finistère,4,54,283,92928,6
+91,Languedoc-Roussillon,30,Gard,3,46,353,72628,5
+73,Midi-Pyrénées,31,Haute-Garonne,3,53,589,12683,70
+73,Midi-Pyrénées,32,Gers,3,31,463,19548,9
+72,Aquitaine,33,Gironde,6,63,542,147927,7
+91,Languedoc-Roussillon,34,Hérault,3,49,343,106261,7
+53,Bretagne,35,Ille-et-Vilaine,4,53,353,10154,70
+24,Centre,36,Indre,4,26,247,2382,61
+24,Centre,37,Indre-et-Loire,3,37,277,6058,19
+82,Rhône-Alpes,38,Isère,3,58,533,12337,59
+43,Franche-Comté,39,Jura,3,34,544,2719,73
+72,Aquitaine,40,Landes,2,30,331,3977,66
+24,Centre,41,Loir-et-Cher,3,30,291,3407,29
+82,Rhône-Alpes,42,Loire,3,40,327,7667,29
+83,Auvergne,43,Haute-Loire,3,35,260,2318,77
+52,Pays de la Loire,44,Loire-Atlantique,4,59,221,13176,85
+24,Centre,45,Loiret,3,41,334,6749,13
+73,Midi-Pyrénées,46,Lot,3,31,340,1812,32
+72,Aquitaine,47,Lot-et-Garonne,4,40,319,34250,52
+91,Languedoc-Roussillon,48,Lozère,2,25,185,812,81
+52,Pays de la Loire,49,Maine-et-Loire,4,41,363,8082,98
+25,Basse-Normandie,50,Manche,4,52,601,5171,21
+21,Champagne-Ardenne,51,Marne,5,44,620,5795,33
+21,Champagne-Ardenne,52,Haute-Marne,3,32,438,19100,4
+52,Pays de la Loire,53,Mayenne,3,32,261,31700,6
+41,Lorraine,54,Meurthe-et-Moselle,4,44,594,74650,2
+41,Lorraine,55,Meuse,3,31,500,20050,9
+53,Bretagne,56,Morbihan,3,42,261,74466,3
+41,Lorraine,57,Moselle,9,51,730,10666,67
+26,Bourgogne,58,Nièvre,4,32,312,226997
+31,Nord-Pas-de-Calais,59,Nord,6,79,650,261793,9
+22,Picardie,60,Oise,4,41,693,82366,8
+25,Basse-Normandie,61,Orne,3,40,505,3014,21
+31,Nord-Pas-de-Calais,62,Pas-de-Calais,7,77,895,148920,9
+83,Auvergne,63,Puy-de-Dôme,5,61,470,64964,3
+72,Aquitaine,64,Pyrénées-Atlantiques,3,52,547,67490,8
+73,Midi-Pyrénées,65,Hautes-Pyrénées,3,34,474,2379,45
+91,Languedoc-Roussillon,66,Pyrénées-Orientales,3,31,226,4572,38
+42,Alsace,67,Bas-Rhin,7,44,527,11152,26
+42,Alsace,68,Haut-Rhin,6,31,377,7656,34
+82,Rhône-Alpes,69,Rhône,2,54,293,17560,69
+43,Franche-Comté,70,Haute-Saône,2,32,545,2473,11
+26,Bourgogne,71,Saône-et-Loire,5,57,573,57487,4
+52,Pays de la Loire,72,Sarthe,3,40,375,57949,7
+82,Rhône-Alpes,73,Savoie,3,37,305,4287,51
+82,Rhône-Alpes,74,Haute-Savoie,4,34,294,7609,79
+11,Île-de-France,75,Paris,1,20,1,226826,5
+23,Haute-Normandie,76,Seine-Maritime,3,69,744,127595,2
+11,Île-de-France,77,Seine-et-Marne,5,43,514,134700,8
+11,Île-de-France,78,Yvelines,4,39,262,14354,48
+54,Poitou-Charentes,79,Deux-Sèvres,3,33,305,38056,9
+22,Picardie,80,Somme,4,46,782,58338,8
+73,Midi-Pyrénées,81,Tarn,2,46,323,38709,9
+73,Midi-Pyrénées,82,Tarn-et-Garonne,2,30,195,24822,7
+93,Provence-Alpes-Côte d'Azur,83,Var,3,43,153,102622,2
+93,Provence-Alpes-Côte d'Azur,84,Vaucluse,3,24,151,5552,40
+52,Pays de la Loire,85,Vendée,3,31,282,6540,96
+54,Poitou-Charentes,86,Vienne,3,38,281,43856,6
+74,Limousin,87,Haute-Vienne,3,42,201,38478,1
+41,Lorraine,88,Vosges,3,31,515,3928,46
+26,Bourgogne,89,Yonne,3,42,455,35336,6
+43,Franche-Comté,90,Territoire de Belfort,1,15,102,1464,75
+11,Île-de-France,91,Essonne,3,42,196,123364,5
+11,Île-de-France,92,Hauts-de-Seine,3,45,36,159074,9
+11,Île-de-France,93,Seine-Saint-Denis,3,40,40,153489,5
+11,Île-de-France,94,Val-de-Marne,3,49,47,13408,68
+11,Île-de-France,95,Val-d'Oise,3,39,185,11878,36
+01,Guadeloupe,971,Guadeloupe,2,40,32,40990,5
+02,Martinique,972,Martinique,4,45,34,4005,35
+03,Guyane,973,Guyane,2,19,22,2311,67
+04,La Réunion,974,La Réunion,4,49,24,82990,3

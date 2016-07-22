@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=1",
+    "status": "En cours - Définition",
+    "count": 8,
+    "active": true
+  },
+  {
+    "id": 2,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=2",
+    "status": "En cours - Publicité",
+    "count": 100,
+    "active": true
+  },
+  {
+    "id": 3,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=3",
+    "status": "En cours - Consultation",
+    "count": 3,
+    "active": true
+  },
+  {
+    "id": 4,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=4",
+    "status": "En cours - Dépouillement",
+    "count": 4,
+    "active": true
+  },
+  {
+    "id": 5,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=5",
+    "status": "En cours - Attribution",
+    "count": 7,
+    "active": true
+  },
+  {
+    "id": 6,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=6",
+    "status": "En cours - Exécution",
+    "count": 3,
+    "active": true
+  },
+  {
+    "id": 7,
+    "url": "epm.passation/rechercherConsultationDo.epm? resultat=mesConsultations&codeStatut=7",
+    "status": "Clos",
+    "count": 3,
+    "active": false
+  }
+]

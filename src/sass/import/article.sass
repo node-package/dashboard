@@ -1,0 +1,73 @@
+$article-height: 240px
+
+.panel-body-article-wrap
+  max-height: $article-height
+  overflow: hidden
+  position: relative
+
+.articles
+  max-height: $article-height
+  overflow: auto
+
+  li:first-child .article
+    border-top: 0
+
+.article
+  border-top: 1px solid #F0F0F0
+  padding-bottom: 8px
+  padding-top: 4px
+
+
+  p
+    margin: 0 0 5px
+
+  .title
+    color: $primary-color
+    font-size: 1em
+    font-weight: 600
+    margin: 5px 0
+  .date
+    float: right
+    color: #777
+    font-size: 0.785em
+    padding-right: 1em
+  .content
+    color: $base-color
+
+.article-full-screen
+  position: absolute
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  background: #fff
+
+  .article
+    border: 0
+
+    .header
+      //position: absolute
+      top: 5px
+      left: 0
+      right: 0
+      .pull-left
+        float: none !important
+        overflow: hidden
+      .pull-right
+        width: 80px
+
+    .body
+      //position: absolute
+      //top: 47px
+      left: 0
+      right: 0
+      bottom: 0
+      overflow: auto
+
+    .title
+      margin-bottom: 5px
+    
+    .date
+      float: none
+      display: block
+      margin-bottom: 10px

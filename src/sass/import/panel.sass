@@ -1,0 +1,58 @@
+panel
+  display: block
+
+.panel
+  &.close
+    display: none
+  .panel-heading
+    cursor: move
+  .widget-controls
+    a
+      text-decoration: none
+  .sub-header
+    margin-bottom: 10px
+
+    .filter-item
+      .control-label
+        margin-bottom: 0
+      .input-select
+        border: 0
+        outline: 0
+        &:focus
+          border: 0
+          outline: 0
+
+
+
+      border: 1px solid #ccc
+      padding: 2px 0 2px 4px
+      margin-top: -2px
+
+  .btn-more
+    display: block
+    text-align: center
+    font-weight: 600
+    text-transform: uppercase
+    cursor: pointer
+    font-size: 0.875em
+
+  .panel-body-editor-wrap
+    position: relative
+
+    .editor-view
+      min-height: 30px
+
+    .editor-textarea
+
+      .textarea
+        width: 100%
+        min-height: 50px
+        max-height: 50px
+        border: 0
+        margin: 0
+        padding: 5px
+        resize: none
+        overflow: auto
+
+
+
